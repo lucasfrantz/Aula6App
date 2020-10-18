@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula6App</string>
+    <string-array name="cores">
+        <item>Porto Alegre</item>
+        <item>Santa Cruz do Sul</item>
+        <item>Santa Maria</item>
+    </string-array>
+</resources>
